@@ -1,0 +1,14 @@
+read_verilog rtl/*.v
+
+hierarchy -top smart_uart_logger
+
+proc
+opt
+memory
+opt
+techmap
+opt
+
+write_verilog synth_output.v
+
+show -format png -prefix images/yosys_rtl_schematic smart_uart_logger

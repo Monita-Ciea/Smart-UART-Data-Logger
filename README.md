@@ -287,8 +287,4 @@ Electronics and Communication Engineering Student
 - **GitHub:** https://github.com/Monita-Ciea
 - **LinkedIn:** https://www.linkedin.com/in/monita-ciea-salins-a76583298/
 
----
 
-# License
-
-This project is licensed under the **MIT License**.
